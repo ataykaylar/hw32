@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1589392233 source:c:\cs201\assignment 3\cs201hw3b\main.cpp
+	<iostream>
+	"Team.h"
+	"Player.h"
+	"CompleteReg.h"
+
+1589389648 source:c:\cs201\assignment 3\cs201hw3b\team.cpp
+	"Team.h"
+	<iostream>
+
+1589389084 c:\cs201\assignment 3\cs201hw3b\team.h
+	"Player.h"
+	<string>
+
+1589380998 c:\cs201\assignment 3\cs201hw3b\player.h
+	<string>
+
+1589384994 source:c:\cs201\assignment 3\cs201hw3b\player.cpp
+	"Player.h"
+
+1589392366 source:c:\cs201\assignment 3\cs201hw3b\completereg.cpp
+	"CompleteReg.h"
+	<iostream>
+
+1589393599 c:\cs201\assignment 3\cs201hw3b\completereg.h
+	<string>
+	"Team.h"
+	"Player.h"
+
